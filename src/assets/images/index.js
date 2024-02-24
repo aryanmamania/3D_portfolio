@@ -1,15 +1,15 @@
-import hero from './hero.jpg'
 import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
-import logo from './logo.svg'
+import nvidia from './nvidia.jpg'
+import ibm from './ibm.jpg'
+import dukeUni from './dukeUni.png'
+import google from './google.png'
+import logo from './logo.png'
 
 export {
-    hero,
+   google,
     meta,
-    shopify,
-    starbucks,
-    tesla,
+    dukeUni,
+    ibm,
+    nvidia,
     logo
 }
